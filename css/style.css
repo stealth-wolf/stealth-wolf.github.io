@@ -1070,8 +1070,8 @@
 	#footer {
         z-index: 10;
 		background: #000000;
-		opacity: 0.99;
-		padding: 4em 0 6em 0;
+		opacity: 0.95;
+		padding: 4em 0 1em 0;
 	}
 
 		#footer a {
@@ -1079,7 +1079,7 @@
 		}
 
 		#footer .copyright {
-			color: #bbb;
+			color: #fff;
 			font-size: 0.9em;
 			margin: 20em 0 0 0;
 			padding: 0;
