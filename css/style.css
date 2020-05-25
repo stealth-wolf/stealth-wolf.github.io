@@ -186,7 +186,7 @@
 
 	header.major {
 		text-align: center;
-		margin: 0 0 20em 0;
+		margin: 0 0 5em 0;
 	}
 
 		header.major h2 {
@@ -1082,7 +1082,7 @@
 		#footer .copyright {
 			color: #fff;
 			font-size: 0.9em;
-			margin: 20em 0 0 0;
+			margin: 5em 0 0 0;
 			padding: 0;
 			text-align: center;
 		}
