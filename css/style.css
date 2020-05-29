@@ -902,7 +902,7 @@ html {
 	}
 
 		#header h1 {
-			color: #666f77;
+			color: #ffffff;
 			font-weight: 500;
 			height: inherit;
 			left: 1.25em;
@@ -945,7 +945,7 @@ html {
 						-o-transition: color 0.2s ease-in-out;
 						-ms-transition: color 0.2s ease-in-out;
 						transition: color 0.2s ease-in-out;
-						color: #555f66;
+						color: #ffffff;
 						display: inline-block;
 						text-decoration: none;
 					}
