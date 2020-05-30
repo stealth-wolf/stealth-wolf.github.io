@@ -986,7 +986,7 @@ html {
 		
         z-index: -10;
 		background-color: #666666;
-		background-image: url("../images/2.png");
+		background-image: url("../images/StealthWolf.png");
 		background-size: cover;
 		background-position: center;
 		background-attachment: fixed;
@@ -1001,7 +1001,7 @@ html {
 
 		#home:before {
 			content: '';
-		background-image: url("../images/2.png");
+		background-image: url("../images/StealthWolf.png");
 			background-attachment: fixed;
 			background-position: center;
 			background-repeat: no-repeat;
